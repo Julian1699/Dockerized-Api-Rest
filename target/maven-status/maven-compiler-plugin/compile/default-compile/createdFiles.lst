@@ -1,0 +1,5 @@
+tiendarest\Service\productoService.class
+tiendarest\TiendaRestApplication.class
+tiendarest\Controller\productoController.class
+tiendarest\Repository\productoRepository.class
+tiendarest\Entity\Producto.class
